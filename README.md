@@ -16,7 +16,7 @@
 
 - 🌱 Currently learning **Reactjs, Tailwind, Nextjs**
 
-- ⚡ Fun fact **I love teaching, music and meeting new people.**
+- ⚡ Fun fact **I love teaching, music, meeting new people and power rangers.**
 
 
 ## Skills
