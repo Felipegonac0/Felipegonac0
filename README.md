@@ -70,5 +70,5 @@
 ![ZSH](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)
 ![Arc](https://img.shields.io/badge/Arc-1638FB?style=for-the-badge&logo=Arc&logoColor=white )
 
-## Contact me:
+## Contact
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/felipeglzac/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipeglzac/" height="30" width="40" /></a>
