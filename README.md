@@ -6,17 +6,17 @@
 ## About me
 <img align="right" alt="Coding" width="350" src= "https://www.icegif.com/wp-content/uploads/2022/08/icegif-1103.gif"/>
 
-- 👨🏻‍💻 I'm a sophomore student at [Tec de Monterrey](https://tec.mx/en)
+- 👨🏻‍💻 I'm a senior student at [Tec de Monterrey](https://tec.mx/en)
 
-- 🦊 I'm a Back End developer at [Scholarvy](https://www.scholarvy.io/)
+- 🇬🇧 I'm also an MSc. in Artificial Intelligence Student at [University of Essex](https://www.essex.ac.uk/)
 
-- 🔭 I’m currently working on [TecRacing Telemetry WebApp](https://github.com/Felipegonac0/TecRacingTelemetry)
+- 🔭 I’m currently working on a free AI Tutor for Elementary School Children
 
-- 🤓 I have experience with **I2C communication, DB and API in IoT**. 
+- 🤓 I have experience with **Fullstack Development, IoT Electronics and AI Software**. 
 
-- 🌱 Currently learning **Reactjs, Tailwind, Nextjs**
+- 🌱 Currently learning **LLM fine-tunning and RAG implementation**
 
-- ⚡ Fun fact **I love teaching, music, meeting new people and power rangers.**
+- ⚡ Fun fact **I love teaching, music,and power rangers.**
 
 
 ## Skills
