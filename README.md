@@ -10,7 +10,7 @@
 
 - 🇬🇧 I also have an MSc in Artificial Intelligence from [University of Essex](https://www.essex.ac.uk/)
 
-- 🔭 I’m currently working on Devliverability Systems and AI-driven Enrichment tools for [SendtoWin](https://sendtowin.com/)
+- 🔭 I’m currently working on Deliverability Systems and AI-driven Enrichment tools for [SendtoWin](https://sendtowin.com/)
 
 - 🤓 I have experience with **Fullstack Development, IoT Electronics and AI Software**. 
 
