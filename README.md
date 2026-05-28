@@ -1,22 +1,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipegonac0&label=Profile%20views&color=0e75b6&style=flat" alt="felipegonac0" /> </p>
-<h1 align="center">Hi! ✌️,  I'm Felipe González</h1>
-<h3 align="center">A Computer Science Engineer Student passionate about software development</h3>
+<h1 align="center">Hi! I'm Felipe González ✌️</h1>
+<h3 align="center">A Software Engineer passionate about building products</h3>
 
 ## About me
 <img align="right" alt="Coding" width="350" src= "https://www.icegif.com/wp-content/uploads/2022/08/icegif-1103.gif"/>
 
-- 👨🏻‍💻 I'm a senior student at [Tec de Monterrey](https://tec.mx/en)
+- 👨🏻‍💻 I'm a Computer Science Engineer from [Tec de Monterrey](https://tec.mx/en)
 
-- 🇬🇧 I'm also an MSc. in Artificial Intelligence Student at [University of Essex](https://www.essex.ac.uk/)
+- 🇬🇧 I also have an MSc in Artificial Intelligence from [University of Essex](https://www.essex.ac.uk/)
 
-- 🔭 I’m currently working on a free AI Tutor for Elementary School Children
+- 🔭 I’m currently working on Devliverability Systems and AI-driven Enrichment tools for [SendtoWin](https://sendtowin.com/)
 
 - 🤓 I have experience with **Fullstack Development, IoT Electronics and AI Software**. 
 
 - 🌱 Currently learning **LLM fine-tunning and RAG implementation**
 
-- ⚡ Fun fact **I love teaching, music, and power rangers.**
+- ⚡ Fun fact **I love teaching, music, and Power Rangers.**
 
 
 ## Tech Stack
